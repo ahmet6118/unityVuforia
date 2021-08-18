@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="BoxWithRoseV2" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="BoxWithRoseV2s_assembly" assemblyId="c9374c7d2ca0489fa99f92976f2f998f">
+<Part name="BoxWithRoseV2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0133409 0.0609298 0.524181" rotation="AD: -0.7044740972814977 -0.7366361625299588 3.7015671513649107 175.818" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

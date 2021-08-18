@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="BoxWithRoseV2" targetId="80e4802ad68942418628b535758100d2" version="11.1" toolVersion="9.8.5" bbox="-0.116417 -0.010553 -0.120003 0.116000 0.190411 0.042997" previewImage="80e4802ad68942418628b535758100d2_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="BoxWithRoseV2s_assembly" assemblyId="c9374c7d2ca0489fa99f92976f2f998f">
+<Part name="BoxWithRoseV2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0133409 0.0609298 0.524181" rotation="AD: -0.7044740972814977 -0.7366361625299588 3.7015671513649107 175.818" image="BoxWithRoseV2_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

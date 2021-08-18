@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-07-16T14:21:17Z" name="BoxVuforiaScanner" targetId="243d0204b02c400c8382581ecd83bcba" version="12.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2021-07-13T08:52:21Z" name="msi" targetId="78dbb7f87bc0443da556d73057f7b8ac" version="12.0" />
+  </TargetSet>
+</QCARInfo>

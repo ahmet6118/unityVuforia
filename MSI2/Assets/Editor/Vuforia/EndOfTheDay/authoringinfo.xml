@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="EndOfTheDay" targetId="6babf0a784394c75bf8877bc5f4caf09" version="11.1" toolVersion="9.8.5" bbox="-0.116417 0.004264 -0.120003 0.116000 0.190411 0.042996" previewImage="6babf0a784394c75bf8877bc5f4caf09_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="EndOfTheDays_assembly" assemblyId="f37dd3636f0f40f5a4ca4276b9c34a36">
+<Part name="EndOfTheDay" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0227304 0.0172405 0.534666" rotation="AD: -0.7027871800434277 -0.7840210078361396 2.3295875403748942 169.428" image="EndOfTheDay_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

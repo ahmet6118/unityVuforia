@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="FinalBoxVersion" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="FinalBoxVersions_assembly" assemblyId="89636401342a4e96b715be0fb8df630c">
+<Part name="FinalBoxVersion" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0147569 0.0458322 0.513342" rotation="AD: -0.7096581536006935 -0.7456757840600076 3.0125091647518696 173.684" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

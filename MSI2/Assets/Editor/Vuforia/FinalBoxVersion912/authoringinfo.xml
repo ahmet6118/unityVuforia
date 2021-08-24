@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="FinalBoxVersion912" targetId="e3c988c99b924810b77d7e96162de5d8" version="11.1" toolVersion="9.8.5" bbox="-0.116417 0.004264 -0.120003 0.116000 0.190411 0.042996" previewImage="e3c988c99b924810b77d7e96162de5d8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="FinalBoxVersion912s_assembly" assemblyId="70046fb009cb4a1293fcdcfad61aebe1">
+<Part name="FinalBoxVersion912" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.017955 0.0382726 0.495638" rotation="AD: -0.7915760919866978 -0.6556103640031822 2.690408840465513 172.337" image="FinalBoxVersion912_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
